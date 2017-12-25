@@ -1,0 +1,14 @@
+{
+  "name": "ptschneider.net",
+  "version": "2017.1225.1020",
+  "description": "ptschneider.net website",
+  "main": "index.js",
+  "scripts": {
+    "test": "mytest"
+  },
+  "author": "P.T. Schneider",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
