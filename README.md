@@ -1,2 +1,2 @@
 # ptschneider.net
-my personal website
+a trivial website
